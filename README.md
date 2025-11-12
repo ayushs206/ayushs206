@@ -1,18 +1,35 @@
-# 💫 About Me:
-- 🌱 I’m currently learning ...
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/singlayush1938) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushs206) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asingla7_be25@thapar.edu) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayushs206&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayushs206&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushs206&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Ayush Singla</h1>
+<h3 align="center">Tech Nerd • OWASP @Thapar</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayushs206&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,nodejs,express,git,github" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushs206&show_icons=true&theme=dark&locale=en" alt="Ayush Singla" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushs206&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" width="49%" />
+</p>
+
+---
+
+### Contact Me
+
+<p align="center">
+  <a href="mailto:ayushs206@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:asingla7_be25@thapar.edu"><img src="https://img.shields.io/badge/Thapar-0A66C2?style=for-the-badge&logo=maildotru&logoColor=white" alt="Student Email" /></a>
+  <a href="https://linkedin.com/in/ayushs206"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushs206&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
