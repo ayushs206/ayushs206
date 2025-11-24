@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Singla</h1>
-<h3 align="center">Tech Nerd • OWASP @Thapar</h3>
+<h3 align="center">CCS @Thapar • Tech Nerd • OWASP @Thapar</h3>
 
 ---
 
