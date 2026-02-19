@@ -13,10 +13,9 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushs206&show_icons=true&theme=dark&locale=en" alt="Ayush Singla" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushs206&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" width="49%" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushs206&theme=react-dark&bg_color=0D1117&color=7fffd4&line=FF6600&point=7fffd4&area=true&hide_border=false&border_color=7fffd4" alt="Contribution Graph" />
+</div>
 
 ---
 
