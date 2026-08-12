@@ -13,7 +13,7 @@
 ```
 
 
-### OWASP @Thapar • CCS @Thapar
+### OWASP @Thapar • ISTE @Thapar • CCS @Thapar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayushs206-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayushs206)
 [![Email](https://img.shields.io/badge/Email-ayushsingla206@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsingla206@gmail.com)
@@ -32,7 +32,7 @@ const ayush = {
   location: "Punjab, India",
   education: "B.E. @ Thapar Institute of Engineering & Technology",
   currentFocus: ["Learning"],
-  communities: ["OWASP Thapar Chapter", Creative Computing Society],
+  communities: ["OWASP Thapar Chapter", "ISTE Thapar Chapter", "Creative Computing Society"],
   interests: ["Open Source", "DSA"],
   codingStyle: "Clean & maintainable"
 };
